@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Saber 
 <p align="center">
-<img src="https://github.com/Sabermotamedi/Sabermotamedi/blob/main/Saber.png" width=240 height=80>
+<img src="https://github.com/Sabermotamedi/Sabermotamedi/blob/main/Saber.png" width=600 height=113>
 </p>
 
 I'm intrested about C# and .Net Framwork 
