@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Moien Saber Motamedi 👋</h1>
+<h1 align="center">Hi there, I'm Saber Motamedi 👋</h1>
 
 <p align="center">
 <img src="https://github.com/Sabermotamedi/Sabermotamedi/blob/main/Saber.png" width=600 height=113>
@@ -14,7 +14,7 @@
   <img src="https://img.icons8.com/fluent/48/000000/twitter.png" />
  </a>
  <a href="https://www.instagram.com/saber.developer" target="_blank">
-  <img src="<img src="https://img.icons8.com/stickers/100/000000/instagram-new--v2.png" />
+  <img src="<img src="https://github.com/wle8300/instagram-logo/blob/master/logo.svg" />
  </a>
 </p>
 
@@ -29,9 +29,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
-  <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="kubernetes" width="43" height="43" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" alt="angular" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />  
+  <img src="https://camo.githubusercontent.com/48d099290b4cb2d7937bcd96e8497cf1845b54a810a6432c70cf944b60b40c77/68747470733a2f2f7261776769742e636f6d2f676f72616e67616a69632f72656163742d69636f6e732f6d61737465722f72656163742d69636f6e732e737667" alt="reactjs" width="40" height="40" />
 </p>
 
 <p align="center">
