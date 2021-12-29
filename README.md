@@ -14,7 +14,7 @@
   <img src="https://img.icons8.com/fluent/48/000000/twitter.png" />
  </a>
  <a href="https://www.instagram.com/saber.developer" target="_blank">
-  <img src="<img src="https://github.com/wle8300/instagram-logo/blob/master/logo.svg" />
+  <img src="https://github.com/wle8300/instagram-logo/blob/master/logo.svg" />
  </a>
 </p>
 
