@@ -40,9 +40,10 @@ Building reliable backend systems, scalable platforms, and better engineering wo
 ## GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=sabermotamedi&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="Saber Motamedi GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sabermotamedi&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark" alt="Saber Motamedi GitHub stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabermotamedi&layout=compact&hide_border=true&theme=github_dark" alt="Top languages" height="170" />
 </p>
 
 <p>
-  <img src="https://streak-stats.demolab.com?user=sabermotamedi&hide_border=true" alt="Saber Motamedi GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=sabermotamedi&theme=github-dark-blue&hide_border=true" alt="Saber Motamedi GitHub streak" />
 </p>
