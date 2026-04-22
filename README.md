@@ -15,23 +15,11 @@
 
 C#, .NET, ASP.NET Core, EF Core, gRPC, REST, Angular, React, shadcn/ui, TypeScript, JavaScript, SQL Server, PostgreSQL, MySQL, Elasticsearch, RabbitMQ, MassTransit, Redis, Docker, Azure, AWS
 
-## Selected Work
-
-- Elite Companies: Next.js + ASP.NET 10
-- Taseed: Angular + ASP.NET 9
-- TRA Chatbot: JavaScript
-- NCSI Prediction Project: Svelte + ASP.NET 10
-- Ijary Cloud ERP: https://office.ijary.com
-
 ## Links
 
 - GitHub: https://github.com/Sabermotamedi
 - LinkedIn: https://www.linkedin.com/in/sabermotamedi/
 - Medium: https://sabermotamedi.medium.com
-- Taseed: https://taseed.sme.gov.om
-- TRA: https://www.tra.gov.om/En
-- Elite Companies: https://elite.aman.om/en/login
-- NCSI Prediction Project: http://ncsi-pp.aman.software
 
 ## Current Focus
 
@@ -47,4 +35,3 @@ Building reliable backend systems, scalable platforms, and better engineering wo
   <img src="https://github-readme-stats.vercel.app/api?username=sabermotamedi&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark" alt="Saber Motamedi GitHub stats" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabermotamedi&layout=compact&hide_border=true&theme=github_dark" alt="Top languages" height="170" />
 </p>
-
