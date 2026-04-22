@@ -1,7 +1,4 @@
-<h1>
-  <img src="./Saber.png" alt="Saber" width="56" align="left" />
-  &nbsp;Saber Motamedi
-</h1>
+# Saber Motamedi
 
 **Senior Software Engineer · Solutions Architect**
 
