@@ -36,3 +36,13 @@ C#, .NET, ASP.NET Core, EF Core, gRPC, REST, Angular, React, shadcn/ui, TypeScri
 ## Current Focus
 
 Building reliable backend systems, scalable platforms, and better engineering workflows.
+
+## GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=sabermotamedi&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="Saber Motamedi GitHub stats" />
+</p>
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=sabermotamedi&hide_border=true" alt="Saber Motamedi GitHub streak" />
+</p>
