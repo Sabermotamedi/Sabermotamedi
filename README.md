@@ -42,11 +42,6 @@ Role-based workflow system for nationwide enterprise onboarding, scoring, and re
 **Stack** · Angular · ASP.NET 9 · PostgreSQL
 **Live** · [taseed.sme.gov.om](https://taseed.sme.gov.om)
 
-### Conversational support chatbot
-Production chatbot with intent routing and multi-channel integration.
-**Stack** · JavaScript · Node.js · NLP pipeline
-**Live** · [tra.gov.om/En](https://www.tra.gov.om/En)
-
 ### Statistics & prediction platform *(in progress)*
 Forecasting platform for macro indicators — reactive frontend on a .NET backend.
 **Stack** · Svelte · ASP.NET 10
@@ -61,26 +56,6 @@ Forecasting platform for macro indicators — reactive frontend on a .NET backen
 **Cloud & Ops** · Docker · Azure · AWS · GitHub Actions · GitLab CI · Grafana · Prometheus
 **Architecture** · Clean Architecture · Microservices · CQRS · DDD · SOA
 **Quality** · TDD · BDD · xUnit · Postman
-
-## Reference architecture — SaaS platform (11 services)
-
-```mermaid
-graph LR
-  Client[Web / Mobile] --> GW[API Gateway]
-  GW --> Auth[Auth]
-  GW --> Orders[Orders]
-  GW --> Billing[Billing]
-  GW --> Notif[Notifications]
-  GW --> Reports[Reports]
-  Orders -- events --> MQ[(RabbitMQ)]
-  Billing -- events --> MQ
-  MQ --> Notif
-  MQ --> Reports
-  Orders --> PG[(PostgreSQL)]
-  Billing --> PG
-  Reports --> ES[(Elasticsearch)]
-  Auth --> Cache[(Redis)]
-```
 
 ## Writing
 
