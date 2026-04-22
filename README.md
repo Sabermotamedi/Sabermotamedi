@@ -69,3 +69,14 @@ Full archive on [Medium](https://sabermotamedi.medium.com).
 ## Currently
 
 Exploring AI-assisted development workflows and refining a **.NET 10 reference architecture** for scale-oriented platforms.
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sabermotamedi&theme=github-dark-blue&hide_border=true" alt="Saber Motamedi GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sabermotamedi&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark" alt="Saber Motamedi GitHub stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabermotamedi&layout=compact&hide_border=true&theme=github_dark" alt="Top languages" height="170" />
+</p>
