@@ -58,8 +58,7 @@ Forecasting platform for macro indicators — reactive frontend on a .NET backen
 
 I write about backend architecture, .NET, and pragmatic system design.
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [SSH Configuration for GitLab on Windows](https://sabermotamedi.medium.com/ssh-configuration-for-gitlab-on-windows-2b84bd277a69?source=rss-d7157096ae81------2) — Jan 22, 2025- [Project template in .Net](https://sabermotamedi.medium.com/project-template-in-net-30cbcc87045b?source=rss-d7157096ae81------2) — Jan 02, 2024- [Light Clean Architecture — part 2](https://sabermotamedi.medium.com/light-clean-architecture-part-2-912349dba1e2?source=rss-d7157096ae81------2) — Dec 27, 2023- [Light Clean Architecture — part 1](https://sabermotamedi.medium.com/light-clean-architecture-2ec8a562ece6?source=rss-d7157096ae81------2) — Dec 23, 2023<!-- BLOG-POST-LIST:END -->
 
 Full archive on [Medium](https://sabermotamedi.medium.com).
 
